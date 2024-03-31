@@ -1,9 +1,10 @@
-## diff.py
+Attempt to recreate git diff functionality.
 
+Used LCS to find LCS line-by-line from each code. then find difference in the intermediate lines.
 
-## diff2.py
+## REFERENCE
 
-## diff from git diff attached 
+### diff from git diff attached 
 
 ![git diff terminal output](images/image.png)
 
@@ -11,11 +12,12 @@
 - does not display that i have deleted a space
 - does display if a space is added
 
-## vs code extension
+### vs code extension
 
 ![vs code output](images/image-1.png)
 - vs code goes even further, shows the change in each line
 
+# ATTEMPTS
 
 ## diff.py
 
